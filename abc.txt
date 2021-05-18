@@ -9,3 +9,6 @@ version test_merge 0.0
 version test_merge 0.1
 
 version test_merge 0.2
+
+
+version test_merge 0.3
