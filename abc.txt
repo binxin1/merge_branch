@@ -30,3 +30,5 @@ main 1.0
 modify in master[1.1]
 modify in master[1.2]
 modify in ttt_merge[xxx]
+modify in ttt_merge[xxx]
+modify in ttt_merge[yyy]
