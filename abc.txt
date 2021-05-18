@@ -26,3 +26,4 @@ version master 0.1
 
 
 add to main
+main 1.0
