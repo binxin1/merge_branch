@@ -27,6 +27,7 @@ version master 0.1
 
 add to main
 main 1.0
+<<<<<<< HEAD
 modify in master[1.1]
 modify in master[1.2]
 modify in ttt_merge[xxx]
@@ -35,3 +36,9 @@ modify in ttt_merge[yyy]
 modify in ttt_merge[yyy]
 modify in ttt_merge[zzz]
 modify in ttt_merge[aaa]
+=======
+modify in ttt_merge[xxx]
+modify in ttt_merge[yyy]
+modify in ttt_merge[zzz]
+modify in ttt_merge[aaa]
+>>>>>>> cb060e15d48019ae22632e05faf0b42cb9108819
