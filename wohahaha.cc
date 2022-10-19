@@ -7,7 +7,7 @@ int print_wohaha() {
 
 
 int main() {
-    std::cout << "hello world [git_test_2]" << std::endl; 
+    std::cout << "[git_test1]]ni world [git_test_2]" << std::endl; 
     
     return 0; 
 }
