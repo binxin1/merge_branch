@@ -1,7 +1,7 @@
 #include <iostream>
 
 int print_wohaha() {
-    std::cout << "wohaha" << std::endl; 
+    std::cout << "[git_test1]print_wohahaha" << std::endl; 
     return 0; 
 }
 
