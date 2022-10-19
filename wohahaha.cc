@@ -1,8 +1,8 @@
 #include <iostream>
 
 int print_wohaha() {
-    std::cout << "[git_test2]wohaha" << std::endl; 
-    return 0; 
+    std::cout << "[git_test1, git_test2]print_wohahaha & wohahaha" << std::endl; 
+    return 0;
 }
 
 
