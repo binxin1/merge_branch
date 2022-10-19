@@ -1,7 +1,13 @@
 #include <iostream>
 
+int print_wohaha() {
+    std::cout << "wohaha" << std::endl; 
+    return 0; 
+}
+
+
 int main() {
-    std::cout << "wohahaha world [git_test_2]" << std::endl; 
+    std::cout << "[git_test1]]wohahaha world [git_test_2]" << std::endl; 
     
-    return 0;
+    return 0; 
 }
