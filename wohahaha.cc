@@ -5,9 +5,14 @@ int print_wohaha() {
     return 0;
 }
 
+int local_dev_1() {
+    std::cout << "local_dev_1" << std::endl;
+    return 0; 
+}
+
 
 int main() {
-    std::cout << "[git_test1]]wohahaha world [git_test_2]" << std::endl; 
+    std::cout << "local_dev_1" << std::endl; 
     
     return 0; 
 }
