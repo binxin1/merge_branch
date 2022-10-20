@@ -5,6 +5,11 @@ int print_wohaha() {
     return 0;
 }
 
+int local_dev_1() {
+    std::cout << "local_dev_1" << std::endl;
+    return 0; 
+}
+
 
 int local_dev_2() {
     std::cout << "local_dev_2" << std::endl; 
@@ -14,7 +19,7 @@ int local_dev_2() {
 
 
 int main() {
-    std::cout << "[git_test_2&&&&&]]wohahaha world [git_test_2]" << std::endl; 
-    
+    std::cout << "[git_test_2&&&&&]]wohahaha world [git_test_2] & [git_test_1]local_dev_1" << std::endl; 
+
     return 0; 
 }
