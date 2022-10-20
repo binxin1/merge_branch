@@ -12,7 +12,7 @@ int local_dev_1() {
 
 
 int main() {
-    std::cout << "local_dev_1" << std::endl; 
+    std::cout << "[git_test_1]local_dev_1" << std::endl; 
     
     return 0; 
 }
