@@ -6,6 +6,13 @@ int print_wohaha() {
 }
 
 
+int local_dev_2() {
+    std::cout << "local_dev_2" << std::endl; 
+    return 0;
+}
+
+
+
 int main() {
     std::cout << "[git_test1]]wohahaha world [git_test_2]" << std::endl; 
     
